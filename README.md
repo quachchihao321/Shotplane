@@ -1,4 +1,4 @@
-# Shotplane-
+# Shotplane
 
 Based on an airplane shooting program
 
