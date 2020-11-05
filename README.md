@@ -1,4 +1,4 @@
-# Shotplane
+# Space War
 A simple shoot game written in Python.
 
 # Introduce
