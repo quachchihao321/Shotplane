@@ -18,7 +18,7 @@ bg_size = width, height = 480, 700
 screen = pygame.display.set_mode(bg_size)
 pygame.display.set_caption("Space War")
 
-background = pygame.image.load("images/background.png").convert()
+background = pygame.image.load("images/background.jpg").convert()
 
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
